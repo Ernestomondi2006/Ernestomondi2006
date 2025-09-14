@@ -1,18 +1,47 @@
-# 💫 About Me:
-I'm currently working on building responsive websites and android apps<br>I'm also learning other programming languages like react js
+# Hi 👋 I'm Ernest Omondi
+**Software Engineer • Web Developer • App Developer**
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ernest omondi ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nestro-keyn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ernest omondi ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Nestro key-n ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ernest omondi ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ernestomondi2006@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ernestomondi2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ernestomondi2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernestomondi2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=Ernestomondi2006&color=green)
+![Status](https://img.shields.io/badge/status-online-brightgreen)
+![Focus](https://img.shields.io/badge/focus-System%20Development-orange)
+![Mode](https://img.shields.io/badge/mode-Hacker-black)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ernestomondi2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Who's Ernest Omondi?
+Enthusiastic and results-driven **Full-Stack Software Engineer** with strong proficiency in both web and mobile application development. Skilled in building scalable solutions using **Python, Django, JavaScript, React, Node.js, HTML, CSS, and modern frameworks**.  
+
+Passionate about **system design, problem-solving, and clean architecture**, with experience in Linux environments, Git/GitHub for version control, and mobile app development using **Kotlin and Jetpack Compose**.  
+
+I thrive on building impactful solutions that improve lives, collaborating with others, and continuously learning new technologies.
+
+---
+
+## ✨ Quick Intro
+- 🔭 I’m currently building full-stack applications with **Python Django & React**  
+- 🌱 Exploring **cloud computing & system architecture**  
+- 🤝 Looking to collaborate on **open-source projects**  
+- 💬 Ask me about **web apps, APIs, databases, mobile apps, and Linux systems**  
+- ⚡ Fun fact: *I love turning complex problems into simple, elegant solutions*  
+
+---
+
+## 🛠 Tech Stack
+**Languages & Frameworks:**  
+`Python` • `Django` • `JavaScript` • `React` • `Node.js` • `HTML` • `CSS` • `Kotlin` • `Jetpack Compose`
+
+**Tools & Platforms:**  
+`Linux` • `Git` • `GitHub` • `REST APIs` • `Databases (SQL/NoSQL)` • `Cloud Platforms`
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ernest-omondi)  
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ernestomondi)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/nestro-keyn.my)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nestro_keyn)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ernestomondi2006@gmail.com)  
+
+---
+
+⭐ **“Passionate about technology, driven by innovation, and always eager to learn and grow as a Software Engineer.”**
