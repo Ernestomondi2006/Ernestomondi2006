@@ -29,12 +29,33 @@ I thrive on building impactful solutions that improve lives, collaborating with 
 ## 🛠 Tech Stack
 **Languages & Frameworks:**  
 `Python` • `Django` • `JavaScript` • `React` • `Node.js` • `HTML` • `CSS` • `Kotlin` • `Jetpack Compose`
-https://github-readme-stats.vercel.app/api?username=Ernestomondi2006&show_icons=true&theme=radical
+
 **Tools & Platforms:**  
 `Linux` • `Git` • `GitHub` • `REST APIs` • `Databases (SQL/NoSQL)` • `Cloud Platforms`
 
 ---
-https://streak-stats.demolab.com?user=Ernestomondi2006&theme=radical&border_radius=10
+
+## 📊 GitHub Stats
+![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestomondi2006&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernestomondi2006&layout=compact&theme=radical)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Ernestomondi2006&theme=radical&border_radius=10)
+
+---
+
+## 📈 Activity Graph
+![Ernest's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ernestomondi2006&theme=react-dark&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ernestomondi2006&theme=radical&no-frame=false&no-bg=true&margin-w=15)
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ernest-omondi)  
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ernestomondi)  
