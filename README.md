@@ -29,12 +29,12 @@ I thrive on building impactful solutions that improve lives, collaborating with 
 ## 🛠 Tech Stack
 **Languages & Frameworks:**  
 `Python` • `Django` • `JavaScript` • `React` • `Node.js` • `HTML` • `CSS` • `Kotlin` • `Jetpack Compose`
-
+https://github-readme-stats.vercel.app/api?username=Ernestomondi2006&show_icons=true&theme=radical
 **Tools & Platforms:**  
 `Linux` • `Git` • `GitHub` • `REST APIs` • `Databases (SQL/NoSQL)` • `Cloud Platforms`
 
 ---
-
+https://streak-stats.demolab.com?user=Ernestomondi2006&theme=radical&border_radius=10
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ernest-omondi)  
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ernestomondi)  
