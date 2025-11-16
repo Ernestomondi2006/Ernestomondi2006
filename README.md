@@ -9,7 +9,7 @@
 
 <!-- About Me Card -->
 ## 🧑‍💻 About Me  
-I'm **Ernest (Mwadza)** — a passionate **Full-Stack Developer & Android (Kotlin) Developer** who loves building scalable, user-friendly, and impactful applications.  
+I'm **Ernest (Ernesto)** — a passionate **Full-Stack Developer & Android (Kotlin) Developer** who loves building scalable, user-friendly, and impactful applications.  
 I enjoy solving real problems using modern technologies and constantly improving my skills.
 
 🌍 **Currently seeking:** Remote Full-Stack Developer Internship  
