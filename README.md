@@ -98,25 +98,34 @@ Simple and responsive portfolio website.
 
 ---
 
-<!-- Socials -->
-## 🔗 Connect With Me
+<!## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ernest-omondi">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/Ernestomondi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/nestro_keyn">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/nestro_keyn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a><p align="center">
-  <a href="https://facebook.com/Ernest omondi">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://facebook.com/nestrokey-n" target="_blank">
     <img src="https://img.icons8.com/?size=80&id=118497&format=png" width="50px"/>
   </a>
+
   &nbsp;&nbsp;
-  <a href="https://x.com/Earnest2006">
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/Earnest2006" target="_blank">
     <img src="https://img.icons8.com/?size=80&id=yE34E0-l8YJi&format=png" width="50px"/>
   </a>
-</p>
-</p>
+</p>-- Socials -->
+
 
 ---
 
