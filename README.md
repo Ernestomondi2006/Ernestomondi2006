@@ -96,35 +96,48 @@ Simple and responsive portfolio website.
   <img src="https://github-profile-trophy.vercel.app/?username=Ernestomondi2006&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
----
+## 🔗 Connect With Me
 
-<!## 🔗 Connect With Me
+<style>
+  .social-icon {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .social-icon:hover {
+    transform: scale(1.15);
+    box-shadow: 0px 4px 12px rgba(0, 255, 255, 0.5);
+  }
+</style>
 
 <p align="center">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/Ernestomondi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img class="social-icon" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/nestro_keyn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img class="social-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
 </p>
 
 <p align="center">
+
   <!-- Facebook -->
   <a href="https://facebook.com/nestrokey-n" target="_blank">
-    <img src="https://img.icons8.com/?size=80&id=118497&format=png" width="50px"/>
+    <img class="social-icon" src="https://img.icons8.com/?size=80&id=118497&format=png" width="50px"/>
   </a>
 
-  &nbsp;&nbsp;
+  <!-- Small spacing -->
+  &nbsp;&nbsp;&nbsp;
 
-  <!-- X (Twitter) -->
+  <!-- X / Twitter (larger + clearer + closer) -->
   <a href="https://x.com/Earnest2006" target="_blank">
-    <img src="https://img.icons8.com/?size=80&id=yE34E0-l8YJi&format=png" width="50px"/>
+    <img class="social-icon" src="https://img.icons8.com/?size=100&id=yE34E0-l8YJi&format=png" width="55px"/>
   </a>
-</p>-- Socials -->
+
+</p>
 
 
 ---
