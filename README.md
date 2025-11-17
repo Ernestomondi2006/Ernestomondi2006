@@ -102,12 +102,20 @@ Simple and responsive portfolio website.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ernest omondi">
+  <a href="https://www.linkedin.com/in/Ernest-omondi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/nestro_keyn">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a><p align="center">
+  <a href="https://facebook.com/Ernest omondi">
+    <img src="https://img.icons8.com/?size=80&id=118497&format=png" width="50px"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Earnest2006">
+    <img src="https://img.icons8.com/?size=80&id=yE34E0-l8YJi&format=png" width="50px"/>
+  </a>
+</p>
 </p>
 
 ---
